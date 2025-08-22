@@ -29,7 +29,7 @@ It provides two main functionalities:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/RPM-Dashboard.git
+git clone https://github.com/TaufeeqAhmad933/RPM-Dashboard.git
 cd RPM-Dashboard
 
 
