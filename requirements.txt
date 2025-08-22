@@ -1,0 +1,19 @@
+# Core app
+streamlit
+pandas
+numpy
+
+# Database
+sqlalchemy
+
+# Visualization
+matplotlib
+plotly
+
+# Animations & UI effects
+streamlit-lottie
+streamlit-option-menu
+
+# Optional: for glowing futuristic styling (CSS injections only, no lib needed)
+# But keeping pillow in case we add images/logos
+pillow
