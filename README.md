@@ -67,7 +67,9 @@ streamlit run app/streamlit_app.py
 ## 📊 Risk Classification Logic
 
 Low Risk → Normal vitals within safe range.
+
 Medium Risk → Slight deviations from normal.
+
 High Risk → Major abnormalities in one or more vitals.
 
 ## 📜 License
